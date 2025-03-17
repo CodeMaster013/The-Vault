@@ -18,6 +18,6 @@ public class ModBlocks {
     );
 
     public static void registerBlocks() {
-        Registry.register(Registry.BLOCK, new Identifier("your_mod_id", "vault_block"), VAULT_BLOCK);
-        Registry.register(Registry.ITEM, new Identifier("your_mod_id", "vault_block"), new BlockItem(VAULT_BLOCK, new Item.Settings()));
+        Registry.register(Registry.BLOCK, new Identifier("vaultmod", "vault_block"), VAULT_BLOCK);
+        Registry.register(Registry.ITEM, new Identifier("vaultmod", "vault_block"), new BlockItem(VAULT_BLOCK, new Item.Settings()));
 }
