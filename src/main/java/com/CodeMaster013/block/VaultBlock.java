@@ -1,4 +1,4 @@
-package com.yourname.vaultmod.block;
+package com.CodeMaster013.vaultmod.block;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockState;

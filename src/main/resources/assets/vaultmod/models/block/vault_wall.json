@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "vaultmod:block/vault_wall"
+  }
+}

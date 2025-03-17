@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="353aa9d1-e63e-4544-838d-d5e879244075" name="Changes" comment="Changed">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/vaultmod/blockstates/vault_multiblock_portal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/vaultmod/blockstates/vault_wall.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/vaultmod/models/block/vault_multiblock_portal.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/vaultmod/models/block/vault_wall.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/vaultmod/models/item/vault_wall.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/CodeMaster013/block/VaultBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/CodeMaster013/block/VaultBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/CodeMaster013/entity/AttackIntrudersGoal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/CodeMaster013/entity/AttackIntrudersGoal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/CodeMaster013/item/StatueSummonerItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/CodeMaster013/item/StatueSummonerItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/CodeMaster013/registry/ModBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/CodeMaster013/registry/ModBlocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/CodeMaster013/registry/ModBlocksEntities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/CodeMaster013/registry/ModBlocksEntities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/CodeMaster013/registry/ModEntities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/CodeMaster013/registry/ModEntities.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,10 +87,18 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/angie/Desktop/Minecraft Mods/Minecraft+Mods+Workspace+Windows/Minecraft Mods Workspace Windows/Workspace/The-Vault/src/main/resources/assets/vaultmod/models/item",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\angie\Desktop\Minecraft Mods\Minecraft+Mods+Workspace+Windows\Minecraft Mods Workspace Windows\Workspace\The-Vault\src\main\resources\assets\vaultmod\models\item" />
+      <recent name="C:\Users\angie\Desktop\Minecraft Mods\Minecraft+Mods+Workspace+Windows\Minecraft Mods Workspace Windows\Workspace\The-Vault\src\main\resources\assets\vaultmod\models\block" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\angie\Desktop\Minecraft Mods\Minecraft+Mods+Workspace+Windows\Minecraft Mods Workspace Windows\Workspace\The-Vault\src\main\resources\assets\vaultmod\textures\block" />
     </key>
@@ -167,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742235931281</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Changed">
+      <option name="closed" value="true" />
+      <created>1742241092647</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742241092647</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

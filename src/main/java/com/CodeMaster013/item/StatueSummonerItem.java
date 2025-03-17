@@ -1,4 +1,4 @@
-package com.yourname.vaultmod.item;
+package com.CodeMaster013.vaultmod.item;
 
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;

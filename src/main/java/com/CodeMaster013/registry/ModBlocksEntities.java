@@ -1,4 +1,4 @@
-package com.yourname.vaultmod.registry;
+package com.CodeMaster013.vaultmod.registry;
 
 import com.yourname.vaultmod.VaultMod;
 import com.yourname.vaultmod.block.VaultBlockEntity;
