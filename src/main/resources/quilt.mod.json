@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "vaultmod",
+  "id": "vault-mod",
   "version": "1.0.0",
   "name": "Magical Vault Mod",
   "description": "Adds an indestructible vault and magical guardian statues.",
@@ -10,13 +10,14 @@
   },
   "license": "MIT",
   "environment": "*",
-  "entrypoints": {
-    "main": [
-      "com.yourname.vaultmod.VaultMod"
+  "entrypoint": {
+    "init": [
+      "com.codemaster.vaultmod.VaultMod"
     ]
   },
   "depends": {
     "fabricloader": ">=0.14.0",
     "minecraft": "1.19.2"
-  }
+  },
+  "schema_version": 1
 }
